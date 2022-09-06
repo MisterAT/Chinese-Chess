@@ -1,0 +1,1 @@
+双击Chinesechess.exe 即可运行程序

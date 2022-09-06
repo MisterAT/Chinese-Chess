@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>resource/BBING.png</file>
+        <file>resource/BCHE.png</file>
+        <file>resource/BJIANG.png</file>
+        <file>resource/BMA.png</file>
+        <file>resource/BOARD.BMP</file>
+        <file>resource/BPAO.png</file>
+        <file>resource/BSHI.png</file>
+        <file>resource/BXIANG.png</file>
+        <file>resource/RBING.png</file>
+        <file>resource/RCHE.png</file>
+        <file>resource/RJIANG.png</file>
+        <file>resource/RMA.png</file>
+        <file>resource/RPAO.png</file>
+        <file>resource/RSHI.png</file>
+        <file>resource/RXIANG.png</file>
+        <file>resource/select.png</file>
+        <file>resource/beijing.png</file>
+        <file>resource/aouth.png</file>
+        <file>resource/chongwang.png.png</file>
+        <file>resource/denglu.png</file>
+        <file>resource/denglvye.png</file>
+        <file>resource/huiqi.png.png</file>
+        <file>resource/title.png</file>
+        <file>resource/xiangqi-001.jpg</file>
+        <file>resource/1618556132(1).png</file>
+        <file>resource/abaaba.png</file>
+        <file>resource/ab.png</file>
+        <file>resource/rumen.png</file>
+        <file>resource/yiban.png</file>
+        <file>resource/haoyou.png</file>
+        <file>resource/haoyou2.png</file>
+        <file>resource/rumen2.png</file>
+        <file>resource/yiban2.png</file>
+        <file>resource/music.mp3</file>
+        <file>resource/music1.wav</file>
+    </qresource>
+</RCC>
